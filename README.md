@@ -3,6 +3,7 @@
 >Removed all the layers above the key layer. (There are only 4 layers now)
 >Added oled panel directly in the main files.
 >Two versions, with clear acrylic and with colored acrylic.
+>!!Use 3mm acrylic for this!!
 # What you need for this case :
 1. 12 x m2 spacers/standoffs 6mm
 2. 24 x m2 screws 4-5mm
