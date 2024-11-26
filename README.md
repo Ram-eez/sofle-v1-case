@@ -8,7 +8,7 @@
 2. 24 x m2 screws 4-5mm
 3. 4 x m3 spacers/standoffs 10mm
 4. 8 x m3 screws 4mm - 6mm
-
+Should work for v1.1 (choc) as well the encoder cut is slightly bigger for a better fit.
 # A stacked acrylic case for the Sofle v1
  
  This is a simple stacked acrylic layer case for the Soflev1 split ergo mechanical keyboard.
