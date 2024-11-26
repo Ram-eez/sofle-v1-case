@@ -1,10 +1,14 @@
 # Edits made :
-
 1.Removed the M5 screws and holes.
+
 2.Removed all the layers above the key layer. (There are only 4 layers now)
+
 3.Added oled panel directly in the main dxf.
+
 4.Two versions, with clear acrylic and with colored acrylic.
+
 5.!!Use 3mm acrylic for this!!
+
 # What you need for this case :
 
 1. 12 x m2 spacers/standoffs 6mm
